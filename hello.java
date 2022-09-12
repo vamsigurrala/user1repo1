@@ -1,4 +1,7 @@
-hi
+hello every one
 {
-	syntax
+  public static void main()	
+  {
+  system.out
+  }
 }
