@@ -2,6 +2,6 @@ hello every one
 {
   public static void main()	
   {
-  system.out
+  system.out.println ("hello to modified")
   }
 }
